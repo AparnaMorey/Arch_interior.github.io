@@ -9,12 +9,12 @@ a stunning architecture and interior design website built using HTML, CSS, and J
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 
-## Installation
+## Getting Started
 
 1. Clone the repository: `git clone (link)`
-2. Install a local server .
-3. Move the project folder to the server's document root.
-4. Open the `index.html` file in a web browser through the server's URL.
+2. Install visual studio code editor
+3. Run the code by using live server extension
+4. Open in your web browser: `index.html` 
     
 ## Screenshots
 
@@ -23,8 +23,6 @@ a stunning architecture and interior design website built using HTML, CSS, and J
 
 
 ##  Features
-
-
 
 * Responsive design for a seamless user experience
 

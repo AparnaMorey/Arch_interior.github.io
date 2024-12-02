@@ -20,10 +20,6 @@ a stunning architecture and interior design website built using HTML, CSS, and J
 
 
 
-![WhatsApp Image 2024-12-02 at 15 02 10](https://github.com/user-attachments/assets/3f3c6544-d173-49a4-880e-55ca73e9536d)
-![WhatsApp Image 2024-12-02 at 15 02 10 (1)](https://github.com/user-attachments/assets/993908f2-bd98-4e7d-9cc0-7c73a6a7cd86)
-
-
 ## 🌟 Features
 
 

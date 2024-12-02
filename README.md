@@ -22,15 +22,15 @@ a stunning architecture and interior design website built using HTML, CSS, and J
 <img src="https://github.com/user-attachments/assets/9d398859-f03d-4b06-af2d-cbe36cdc6c39" width=300 height=600>
 
 
-## 🌟 Features
+##  Features
 
 
 
-✨ Responsive design for a seamless user experience
+* Responsive design for a seamless user experience
 
-✨ Custom animations for a touch of elegance
+* Custom animations for a touch of elegance
 
-✨ Optimized for speed and performance
+* Optimized for speed and performance
 
 
 ## Usage/Examples

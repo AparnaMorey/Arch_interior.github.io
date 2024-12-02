@@ -18,6 +18,8 @@ a stunning architecture and interior design website built using HTML, CSS, and J
     
 ## Screenshots
 
+<img src="https://github.com/user-attachments/assets/e9156e79-f35e-4aee-8cbc-0d490407e3ce" width=300 height=600 >
+<img src="https://github.com/user-attachments/assets/9d398859-f03d-4b06-af2d-cbe36cdc6c39" width=300 height=600>
 
 
 ## 🌟 Features
